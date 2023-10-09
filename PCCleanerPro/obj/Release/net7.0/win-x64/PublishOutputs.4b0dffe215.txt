@@ -1,0 +1,2 @@
+C:\Users\Gen\source\repos\PCCleanerPro\PCCleanerPro\bin\Release\net7.0\publish\win-x64\PCCleanerPro.pdb
+C:\Users\Gen\source\repos\PCCleanerPro\PCCleanerPro\bin\Release\net7.0\publish\win-x64\PCCleanerPro.exe

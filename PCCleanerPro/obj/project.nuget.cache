@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "fa32EP8GTuKzDQfVcji76V91P0l/Qt4DYbyTSt9KtuL7vOyo/l/rC4vYS5qNle4Xx04nX9hXZz4U6Kxq6NTPvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gen\\source\\repos\\PCCleanerPro\\PCCleanerPro\\PCCleanerPro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gen\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\Gen\\.nuget\\packages\\system.diagnostics.eventlog\\7.0.0\\system.diagnostics.eventlog.7.0.0.nupkg.sha512",
+    "C:\\Users\\Gen\\.nuget\\packages\\system.management\\7.0.2\\system.management.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
