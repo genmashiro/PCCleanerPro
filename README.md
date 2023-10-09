@@ -14,14 +14,12 @@ PCCleanerPro is a simple command-line tool that allows users to perform various 
 - Clean browser data
 
 ## How to Use
-1. Download or clone the repository to your local machine.
-2. Open the solution in Visual Studio.
-3. Build the solution.
-4. Run the PCCleanerPro.exe file as an administrator.
+1. Run the PCCleanerPro.exe file as an administrator.
+2. Choose your option
+3. Clean your PC
 
 ## Requirements
 - Windows 10
-- Visual Studio 2019 or later
 
 ## Disclaimer
 This tool is provided as-is and the developer is not responsible for any damage or loss caused by the use of this tool. Use at your own risk.
