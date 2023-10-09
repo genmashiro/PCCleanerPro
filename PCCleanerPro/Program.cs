@@ -34,7 +34,7 @@ namespace PCCleanerPro
             Console.ForegroundColor = ConsoleColor.Blue;
             Console.WriteLine("You are using: " + Environment.OSVersion);
             Console.WriteLine("PC Name: " + Environment.MachineName);
-
+            
             Console.WriteLine();
             Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine("Please choose an option:");
