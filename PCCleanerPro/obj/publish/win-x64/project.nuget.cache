@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Tq/J1unyY6TiFG8A1Z8lsVcCTivVepLJUc8haohJg259UsSrLQjnQw0ayqQvYgwjLCJYEowJ8ZNhkUn0JskoJA==",
+  "dgSpecHash": "KSn+OJe1kCCnPlbIekSDbr/yDESRVDtjL1KBz8USV7+/HunZ+Ro+BCBWb/sqH+bAVCq7pOwARZ9YgKRx9bJLGw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Gen\\source\\repos\\PCCleanerPro\\PCCleanerPro\\PCCleanerPro.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Gen\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
     "C:\\Users\\Gen\\.nuget\\packages\\system.diagnostics.eventlog\\7.0.0\\system.diagnostics.eventlog.7.0.0.nupkg.sha512",
+    "C:\\Users\\Gen\\.nuget\\packages\\system.management\\7.0.2\\system.management.7.0.2.nupkg.sha512",
     "C:\\Users\\Gen\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\7.0.11\\microsoft.netcore.app.runtime.win-x64.7.0.11.nupkg.sha512",
     "C:\\Users\\Gen\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\7.0.11\\microsoft.windowsdesktop.app.runtime.win-x64.7.0.11.nupkg.sha512",
     "C:\\Users\\Gen\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\7.0.11\\microsoft.aspnetcore.app.runtime.win-x64.7.0.11.nupkg.sha512"

@@ -28,7 +28,7 @@ namespace PCCleanerPro
             Console.Clear();
             Console.ForegroundColor = ConsoleColor.Red;
             
-            Console.WriteLine("Welcome to PCCleanerPro v0.0.1 [PRIVATE], " + Environment.UserName);
+            Console.WriteLine("Welcome to PCCleanerPro v0.0.1, " + Environment.UserName);
             Console.WriteLine("Coded by Gen.");
             Console.WriteLine();
             Console.ForegroundColor = ConsoleColor.Blue;

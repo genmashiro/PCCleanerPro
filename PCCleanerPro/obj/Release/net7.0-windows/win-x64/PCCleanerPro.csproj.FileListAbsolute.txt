@@ -198,3 +198,5 @@ C:\Users\Gen\source\repos\PCCleanerPro\PCCleanerPro\obj\Release\net7.0-windows\w
 C:\Users\Gen\source\repos\PCCleanerPro\PCCleanerPro\obj\Release\net7.0-windows\win-x64\PCCleanerPro.pdb
 C:\Users\Gen\source\repos\PCCleanerPro\PCCleanerPro\obj\Release\net7.0-windows\win-x64\PCCleanerPro.genruntimeconfig.cache
 C:\Users\Gen\source\repos\PCCleanerPro\PCCleanerPro\obj\Release\net7.0-windows\win-x64\ref\PCCleanerPro.dll
+C:\Users\Gen\source\repos\PCCleanerPro\PCCleanerPro\bin\Release\net7.0-windows\win-x64\System.CodeDom.dll
+C:\Users\Gen\source\repos\PCCleanerPro\PCCleanerPro\bin\Release\net7.0-windows\win-x64\System.Management.dll
