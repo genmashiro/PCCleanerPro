@@ -2,6 +2,8 @@
 
 PCCleanerPro is a simple command-line tool that allows users to perform various system maintenance tasks on their Windows PC. The tool is coded in C# and is compatible with Windows 10.
 
+VT: https://www.virustotal.com/gui/file/44c33ab7471371761baa6f11f0e7c751259059a067450214801049da1d77463f?nocache=1
+
 ![PCCleanerPro_UjMRZj4vl6](https://github.com/genmashiro/PCCleanerPro/assets/15315112/1447be1e-d597-44ee-849b-a8993ac09016)
 
 
