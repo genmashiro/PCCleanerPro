@@ -23,7 +23,7 @@ namespace PCCleanerPro
             Console.ReadKey();
         }
 
-        private static void ShowOptions()
+        public static void ShowOptions()
         {
             Console.Clear();
             Console.ForegroundColor = ConsoleColor.Red;
@@ -278,6 +278,7 @@ namespace PCCleanerPro
 
         private static void DetectBrokenHardDrives()
         {
+            Console.Clear();
             bool detectedBrokenHardDrive = false;
             ManagementObjectSearcher searcher = new ManagementObjectSearcher("SELECT * FROM Win32_DiskDrive WHERE Status='Error'");
             foreach (ManagementObject drive in searcher.Get())

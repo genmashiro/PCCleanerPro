@@ -112,6 +112,10 @@ namespace PCCleanerPro
                     Console.WriteLine("Opera cache deleted.");
                 }
             }
+            Console.WriteLine();
+            Console.WriteLine("Press any key to continue...");
+            Console.ReadKey();
+            Program.ShowOptions();
         }
 
         private static void DeleteCookies()
@@ -160,6 +164,7 @@ namespace PCCleanerPro
             Console.WriteLine();
             Console.WriteLine("Press any key to continue...");
             Console.ReadKey();
+            Program.ShowOptions();
         }
     }
 }

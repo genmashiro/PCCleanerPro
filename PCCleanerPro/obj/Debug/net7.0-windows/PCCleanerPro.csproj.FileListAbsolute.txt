@@ -3,9 +3,6 @@ C:\Users\Gen\source\repos\PCCleanerPro\PCCleanerPro\bin\Debug\net7.0-windows\PCC
 C:\Users\Gen\source\repos\PCCleanerPro\PCCleanerPro\bin\Debug\net7.0-windows\PCCleanerPro.runtimeconfig.json
 C:\Users\Gen\source\repos\PCCleanerPro\PCCleanerPro\bin\Debug\net7.0-windows\PCCleanerPro.dll
 C:\Users\Gen\source\repos\PCCleanerPro\PCCleanerPro\bin\Debug\net7.0-windows\PCCleanerPro.pdb
-C:\Users\Gen\source\repos\PCCleanerPro\PCCleanerPro\bin\Debug\net7.0-windows\System.Diagnostics.EventLog.dll
-C:\Users\Gen\source\repos\PCCleanerPro\PCCleanerPro\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.Messages.dll
-C:\Users\Gen\source\repos\PCCleanerPro\PCCleanerPro\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.dll
 C:\Users\Gen\source\repos\PCCleanerPro\PCCleanerPro\obj\Debug\net7.0-windows\PCCleanerPro.csproj.AssemblyReference.cache
 C:\Users\Gen\source\repos\PCCleanerPro\PCCleanerPro\obj\Debug\net7.0-windows\PCCleanerPro.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Gen\source\repos\PCCleanerPro\PCCleanerPro\obj\Debug\net7.0-windows\PCCleanerPro.AssemblyInfoInputs.cache
@@ -17,6 +14,9 @@ C:\Users\Gen\source\repos\PCCleanerPro\PCCleanerPro\obj\Debug\net7.0-windows\ref
 C:\Users\Gen\source\repos\PCCleanerPro\PCCleanerPro\obj\Debug\net7.0-windows\PCCleanerPro.pdb
 C:\Users\Gen\source\repos\PCCleanerPro\PCCleanerPro\obj\Debug\net7.0-windows\PCCleanerPro.genruntimeconfig.cache
 C:\Users\Gen\source\repos\PCCleanerPro\PCCleanerPro\obj\Debug\net7.0-windows\ref\PCCleanerPro.dll
-C:\Users\Gen\source\repos\PCCleanerPro\PCCleanerPro\bin\Debug\net7.0-windows\System.CodeDom.dll
 C:\Users\Gen\source\repos\PCCleanerPro\PCCleanerPro\bin\Debug\net7.0-windows\System.Management.dll
 C:\Users\Gen\source\repos\PCCleanerPro\PCCleanerPro\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\Gen\source\repos\PCCleanerPro\PCCleanerPro\bin\Debug\net7.0-windows\System.CodeDom.dll
+C:\Users\Gen\source\repos\PCCleanerPro\PCCleanerPro\bin\Debug\net7.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Gen\source\repos\PCCleanerPro\PCCleanerPro\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Gen\source\repos\PCCleanerPro\PCCleanerPro\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.dll
